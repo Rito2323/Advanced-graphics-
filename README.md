@@ -39,9 +39,9 @@ Cylinder
  Depending on which gameobject focussed that method is invoked for logic.
  
   
-  _gazedAtObject?.SendMessage("OnPointerExit");
+  
+              _gazedAtObject?.SendMessage("OnPointerExit");
                 _gazedAtObject = hit.transform.gameObject;
-               
                if(_gazedAtObject.name == "Sphere") {
                _gazedAtObject.SendMessage("OnPointerEnterSphere");}
                if(_gazedAtObject.name == "Cube"){
