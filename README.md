@@ -53,11 +53,11 @@ Cylinder
                   if(_gazedAtObject.name == "Capsule1"){
                 _gazedAtObject.SendMessage("OnPointerEnterCapsule1");}
   
-  Each of the gameobject has associated cs file lonked to exceute logic
+  Each of the gameobject has associated cs file linked to exceute logic depening on focus method called from CameraPointer.cs 
   
-  path of scene MyProject/Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity
+  path of scene - MyProject/Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity
   
-  path of scripts MyProject/Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts
+  path of scripts - MyProject/Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts
   
   
   
