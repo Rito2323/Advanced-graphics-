@@ -45,9 +45,9 @@ Cylinder
   
   Each of the gameobject has associated cs file lonked to exceute logic
   
-  path of scene /Users/rpodder/My project/Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity
+  path of scene MyProject/Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity
   
-  path of scripts /Users/rpodder/My project/Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts
+  path of scripts MyProject/Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts
   
   
   
