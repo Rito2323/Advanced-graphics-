@@ -13,14 +13,23 @@ In this game there are 5 objects
 5)Cylinder
 
 Sphere
+ 
  When user focusses on Sphere; it starts to descend down ; stops desecnd when focused out
+
 Cube
+
 When user focusses on cube color chnages from red to green - back to red when focussed out
+
 Capsule
+ 
  Capusule when focussed emits sparkling particles
+
 Capsule2
+  
   This capusle explodes into small spheres on focus  and the spheres start to descend down
+
 Cylinder
+  
   Cylinder turns to cube on focus
   
  How coding is done:
